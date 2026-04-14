@@ -1,0 +1,35 @@
+# APIBridge AI — Mismatch Report
+# Generated: 2026-04-14T01:30:47.409Z
+# Total mismatches: 28
+# Needs review: 0
+# Auto-fixed: 28
+
+"timestamp","session_id","path","source_key","target_key","confidence_%","detection_method","inferred_type","auto_applied","direction","needs_review","value_preview"
+"2026-04-14T01:30:47.407Z","8550b05a","user_id","user_id","userId","97","pattern_conversion","number","YES","toFrontend","NO","1"
+"2026-04-14T01:30:47.408Z","8550b05a","user_first_name","user_first_name","userFirstName","97","pattern_conversion","string","YES","toFrontend","NO","Ravi"
+"2026-04-14T01:30:47.408Z","8550b05a","user_last_name","user_last_name","userLastName","97","pattern_conversion","string","YES","toFrontend","NO","Kumar"
+"2026-04-14T01:30:47.408Z","8550b05a","email_address","email_address","emailAddress","97","pattern_conversion","string","YES","toFrontend","NO","ravi@example.com"
+"2026-04-14T01:30:47.408Z","8550b05a","is_active","is_active","isActive","97","pattern_conversion","number","YES","toFrontend","NO","1"
+"2026-04-14T01:30:47.408Z","8550b05a","is_verified","is_verified","isVerified","97","pattern_conversion","number","YES","toFrontend","NO","1"
+"2026-04-14T01:30:47.408Z","8550b05a","usr_dob","usr_dob","usrDob","97","pattern_conversion","date","YES","toFrontend","NO","1995-04-12"
+"2026-04-14T01:30:47.408Z","8550b05a","profile_pic_url","profile_pic_url","profilePicUrl","97","pattern_conversion","string","YES","toFrontend","NO","https://cdn.example.com/pic.jpg"
+"2026-04-14T01:30:47.408Z","8550b05a","created_at","created_at","createdAt","97","pattern_conversion","date","YES","toFrontend","NO","2024-01-01T00:00:00Z"
+"2026-04-14T01:30:47.408Z","8550b05a","order_id","order_id","orderId","97","pattern_conversion","string","YES","toFrontend","NO","ORD-001"
+"2026-04-14T01:30:47.409Z","8550b05a","total_amount","total_amount","totalAmount","97","pattern_conversion","number","YES","toFrontend","NO","1499.00"
+"2026-04-14T01:30:47.409Z","8550b05a","delivery_addr_line1","delivery_addr_line1","deliveryAddrLine1","97","pattern_conversion","string","YES","toFrontend","NO","42 MG Road"
+"2026-04-14T01:30:47.409Z","8550b05a","delivery_addr_city","delivery_addr_city","deliveryAddrCity","97","pattern_conversion","string","YES","toFrontend","NO","Bengaluru"
+"2026-04-14T01:30:47.409Z","8550b05a","delivery_pin_code","delivery_pin_code","deliveryPinCode","97","pattern_conversion","integer_string","YES","toFrontend","NO","560001"
+"2026-04-14T01:30:47.409Z","8550b05a","payment_status","payment_status","paymentStatus","97","pattern_conversion","string","YES","toFrontend","NO","captured"
+"2026-04-14T01:30:47.409Z","8550b05a","order_date","order_date","orderDate","97","pattern_conversion","date","YES","toFrontend","NO","2024-01-15"
+"2026-04-14T01:30:47.409Z","8550b05a","prod_id","prod_id","prodId","97","pattern_conversion","number","YES","toFrontend","NO","101"
+"2026-04-14T01:30:47.409Z","8550b05a","prod_name","prod_name","prodName","97","pattern_conversion","string","YES","toFrontend","NO","Shirt"
+"2026-04-14T01:30:47.409Z","8550b05a","prod_price","prod_price","prodPrice","97","pattern_conversion","number","YES","toFrontend","NO","999.00"
+"2026-04-14T01:30:47.409Z","8550b05a","prod_qty","prod_qty","prodQty","97","pattern_conversion","number","YES","toFrontend","NO","2"
+"2026-04-14T01:30:47.409Z","8550b05a","cat_id","cat_id","catId","97","pattern_conversion","number","YES","toFrontend","NO","5"
+"2026-04-14T01:30:47.409Z","8550b05a","cat_name","cat_name","catName","97","pattern_conversion","string","YES","toFrontend","NO","Clothing"
+"2026-04-14T01:30:47.409Z","8550b05a","is_in_stock","is_in_stock","isInStock","97","pattern_conversion","number","YES","toFrontend","NO","1"
+"2026-04-14T01:30:47.409Z","8550b05a","razorpay_payment_id","razorpay_payment_id","razorpayPaymentId","97","pattern_conversion","string","YES","toFrontend","NO","pay_xxx"
+"2026-04-14T01:30:47.409Z","8550b05a","razorpay_order_id","razorpay_order_id","razorpayOrderId","97","pattern_conversion","string","YES","toFrontend","NO","order_xxx"
+"2026-04-14T01:30:47.409Z","8550b05a","amt_paid","amt_paid","amtPaid","97","pattern_conversion","number","YES","toFrontend","NO","49900"
+"2026-04-14T01:30:47.409Z","8550b05a","currency_cd","currency_cd","currencyCd","97","pattern_conversion","string","YES","toFrontend","NO","INR"
+"2026-04-14T01:30:47.409Z","8550b05a","txn_status","txn_status","txnStatus","97","pattern_conversion","string","YES","toFrontend","NO","success"
