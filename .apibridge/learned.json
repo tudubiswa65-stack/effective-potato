@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-04-14T15:37:33.738Z",
+  "approved": {
+    "usr_first_nm": "firstName",
+    "addr_ln1": "streetAddress"
+  },
+  "rejected": {
+    "addr_ln1": [
+      "addrLn1"
+    ]
+  },
+  "frequency": {
+    "usr_first_nm": 1,
+    "addr_ln1": 1
+  }
+}
